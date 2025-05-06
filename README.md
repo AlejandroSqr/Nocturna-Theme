@@ -1,4 +1,4 @@
-# Nocturna
+# Nocturna Theme
 Nocturna - A Dark Theme for Blender
 
 ![alt text](https://github.com/AlejandroSqr/Nocturna/blob/main/assets/Nocturna.png "NocturnaPreview")
