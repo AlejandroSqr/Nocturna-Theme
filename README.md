@@ -13,3 +13,7 @@ Created in Blender 4.4.0. The Interface can be installed on previous instances, 
 -  Press Install button and select XML file
 
 # Screenshots
+
+![alt text](https://github.com/AlejandroSqr/Nocturna-Theme/blob/main/assets/LayoutTN.png "LayoutTN")
+![alt text](https://github.com/AlejandroSqr/Nocturna-Theme/blob/main/assets/ModelingTN.png "ModelingTN")
+![alt text](https://github.com/AlejandroSqr/Nocturna-Theme/blob/main/assets/UVEditTN.png "UVEditTN.png")
