@@ -11,3 +11,5 @@ Created in Blender 4.4.0. The Interface can be installed on previous instances, 
 -  Open Blender Preferences (Edit > Preferences)
 -  Switch to Themes section
 -  Press Install button and select XML file
+
+# Screenshots
