@@ -13,3 +13,8 @@ Created in Blender 4.4.0. The Interface can be installed on previous instances, 
 -  Open Blender Preferences (Edit > Preferences)
 -  Switch to Themes section
 -  Press Install button and select XML file
+
+# Extra Information
+
+Follow Blender Extension Page to see changelogs, screenshots and reviews
+https://extensions.blender.org/themes/nocturna-theme/
