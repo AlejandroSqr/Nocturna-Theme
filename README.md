@@ -16,5 +16,6 @@ Created in Blender 4.4.0. The Interface can be installed on previous instances, 
 
 # Extra Information
 
+<div align="center">
 Follow Blender Extension Page to see changelogs, screenshots and reviews
 https://extensions.blender.org/themes/nocturna-theme/
